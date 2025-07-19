@@ -1,0 +1,2 @@
+# universal_icon_click_captcha
+图标点选验证码通用解决方案
