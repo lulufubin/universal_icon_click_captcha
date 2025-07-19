@@ -7,20 +7,20 @@
 
 ### 效果展示
 
-![图标展示](icon.png)
+![图标展示](images/icon.png)
 
 #### 自定义数据集
-![](99ac1e52-3699-48b8-b066-d68408c94048.jpg)
-![alt text](66ff53a1-d23d-4234-a0fa-0ca7ea9c2bb1.jpg)
-![alt text](22f3bd95-6d3b-4c6e-a399-2b7901597aeb.jpg)
+![](images/99ac1e52-3699-48b8-b066-d68408c94048.jpg)
+![alt text](images/66ff53a1-d23d-4234-a0fa-0ca7ea9c2bb1.jpg)
+![alt text](images/22f3bd95-6d3b-4c6e-a399-2b7901597aeb.jpg)
 
 #### 标签数据
 ![alt text](image.png)
 
 ### yolo识别
 数据集我使用了10000张左右训练。大概200个epoch，mPA50-95在94左右。使用的是YOLOv12。
-![alt text](<截屏2025-07-19 16.33.38.png>)
-![alt text](<截屏2025-07-19 16.34.09.png>)
+![alt text](images/<截屏2025-07-19 16.33.38.png>)
+![alt text](images/<截屏2025-07-19 16.34.09.png>)
 
 ### 使用方式
 参考 `main.py`的使用方式。
@@ -28,9 +28,9 @@
 
 ### 结论
 像类似下面这些验证码都可以使用以上方式进行，主要在于图标去重部分，图标解决了后续就简单了。
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](images/image-1.png)
+![alt text](images/image-2.png)
+![alt text](images/image-3.png)
 
 # 最后
 代码部分仅供参考，其它类型也有其对应的方案。
