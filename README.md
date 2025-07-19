@@ -19,8 +19,8 @@
 
 ### yolo识别
 数据集我使用了10000张左右训练。大概200个epoch，mPA50-95在94左右。使用的是YOLOv12。
-![alt text](images/<截屏2025-07-19 16.33.38.png>)
-![alt text](images/<截屏2025-07-19 16.34.09.png>)
+![alt text](<images/截屏2025-07-19 16.33.38.png>)
+![alt text](<images/截屏2025-07-19 16.34.09.png>)
 
 ### 使用方式
 参考 `main.py`的使用方式。
